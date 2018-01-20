@@ -1,0 +1,24 @@
+h1 {
+    font-weight: bolder;
+    text-align: center;
+}
+h2 {
+    font-style: italic;
+    color: #878484;
+}
+body {
+    width: 400px;
+    margin: 0 auto;
+    background:#d7fcc2;
+}
+option {
+    width: 120px;
+    height: 20px;
+    text-align: center;
+}
+.readmy {
+    color: red;
+    font-style: normal;
+    font-size: 2rem;
+}
+
